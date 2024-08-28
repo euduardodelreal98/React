@@ -1,3 +1,4 @@
+//Los rest operators, nos permiten agrupar todos los argumenntos resgtantes en un array
 const rest = (a,b,c, ...argumentos) =>{
     console.log('Rest; ' +a,b,c)
     console.log(argumentos)

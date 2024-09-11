@@ -16,7 +16,7 @@ console.log(Rectangulo, cuadrado);
 //Ejemplo2
 class chancho
 {
-    //con el numeral se indican que son propiedades de tipo provada
+    //con el numeral se indican que son propiedades de tipo privada
     #PropPrivada = false;
     constructor(estado = 'feliz')
     {

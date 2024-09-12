@@ -12,3 +12,10 @@ const obj = {
 //Object destructuring se puede solicitar al objeto las propiedades que se queiren obtener
 const {a,b, ...restobj} = obj
 console.log('Objesct destructurin:' + a,b, restobj)
+
+//Imortantate se usa mucho en react
+const useState = () => ['valor', () => {}]
+
+//uso de destructuring
+const [valor, setValor] = useState()
+console.log(valor, setValor);

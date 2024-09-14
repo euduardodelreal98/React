@@ -1,7 +1,8 @@
 //Metodo filter: nos regresa un arreglo que tiene la misma o menor longitud que el arreglo inicial simepre y cuando
 // lo que estemos evaluando nos regrese un true, en caso de ser false, no nos regresa esos elementos
 // Este metodo se utiliza cuando queremos filtrar contenido o cuando existan elementos que no queremos mostrar
-// al usuario
+// al usuario se agrega un  nevo comentario
+
 //ejepmlo:
 
 // const arr = [5,1,2,3,4]

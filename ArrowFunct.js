@@ -27,3 +27,5 @@ console.log(r1);
 //Return implicito en las fat arrow function
 const fnr = () => 2;
 console.log(fnr());
+
+console.log(r1);

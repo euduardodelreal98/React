@@ -20,7 +20,7 @@ class chancho
     #PropPrivada = false;
     constructor(estado = 'feliz')
     {
-        console.log('ssssssssssss',this.#PropPrivada);
+        console.log('esto es una prueba',this.#PropPrivada);
         this.estado = estado;
     }
 

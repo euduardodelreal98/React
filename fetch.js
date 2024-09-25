@@ -3,7 +3,7 @@ const url = 'http://jsonplaceholder.typicode.com/users'
 // //El metodo fetch siempre regresa una 'promesa' eso quiere decir que nos va a regresar
 // //informacion.
 // fetch(url, {
-//     method : 'POST',
+//     method : 'POST', 'PUT', 'GET', 'DELETE'
 
 //     //headers se utiliza para identficar quienes somos y para indicar el tipo de contenido
 //     //a mandar
